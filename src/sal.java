@@ -3,7 +3,7 @@ import java.sql.*;
 public class sal {
 
 	public static void main(String[] args) {
-		abrirConexion();
+		abrirConexion(); //PRUEBA
 
 	}
 		
